@@ -1,0 +1,16 @@
+1.variable:which will store a value
+
+Rules::
+1.Don't start with the digits (or) symbols
+2.starting letter should be alphabets and underscore
+3.pyhon is a case sensitive
+==================================================================================
+---Data Types---
+1.Type of a value
+---Types of Data types--------
+int,float,boolean,string,complex,list,tuple,set,dictonary,frozen set,none
+=================================================================================
+---control statements---
+1.conditional(if,ele,elif,nested if)
+2.Looping(for,while,nested loop)
+3.Jumping(pass,continue,break)
